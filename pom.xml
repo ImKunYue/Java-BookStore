@@ -32,7 +32,7 @@
 	</dependency>
 
 
-    <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
+    <!-- https://mvnrepository.com/artifact/javax.servlet/jstl --> dad tests for Julia -->
     <dependency>
         <groupId>javax.servlet</groupId>
         <artifactId>jstl</artifactId>
